@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectingCoins", "Collecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increasing", "Increasing\Increasing.csproj", "{E3B9A750-F282-4B88-A53B-60580099BC2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MahmoudAndEhabAndTheEvenOddGame", "MahmoudAndEhabAndTheEvenOddGame\MahmoudAndEhabAndTheEvenOddGame.csproj", "{CE992289-1403-4A19-AB48-22E42FEB7B73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{E3B9A750-F282-4B88-A53B-60580099BC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3B9A750-F282-4B88-A53B-60580099BC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3B9A750-F282-4B88-A53B-60580099BC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE992289-1403-4A19-AB48-22E42FEB7B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE992289-1403-4A19-AB48-22E42FEB7B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE992289-1403-4A19-AB48-22E42FEB7B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE992289-1403-4A19-AB48-22E42FEB7B73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

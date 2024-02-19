@@ -9,21 +9,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EqualCandies", "EqualCandie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICPCBalloons", "ICPCBalloons\ICPCBalloons.csproj", "{29D6F898-4E6D-4446-BE78-DC0B0008C296}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOneOut", "OddOneOut\OddOneOut.csproj", "{C24FF11B-4AF1-4E74-A432-56F7DC91A02F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddOneOut", "OddOneOut\OddOneOut.csproj", "{C24FF11B-4AF1-4E74-A432-56F7DC91A02F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectingCoins", "CollectingCoins\CollectingCoins.csproj", "{5D539CE4-20AC-445F-BF21-3058EE370EF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectingCoins", "CollectingCoins\CollectingCoins.csproj", "{5D539CE4-20AC-445F-BF21-3058EE370EF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increasing", "Increasing\Increasing.csproj", "{E3B9A750-F282-4B88-A53B-60580099BC2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Increasing", "Increasing\Increasing.csproj", "{E3B9A750-F282-4B88-A53B-60580099BC2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MahmoudAndEhabAndTheEvenOddGame", "MahmoudAndEhabAndTheEvenOddGame\MahmoudAndEhabAndTheEvenOddGame.csproj", "{CE992289-1403-4A19-AB48-22E42FEB7B73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MahmoudAndEhabAndTheEvenOddGame", "MahmoudAndEhabAndTheEvenOddGame\MahmoudAndEhabAndTheEvenOddGame.csproj", "{CE992289-1403-4A19-AB48-22E42FEB7B73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoveStory", "LoveStory\LoveStory.csproj", "{D8072E46-2022-4FDF-BB0D-9416E2976E88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoveStory", "LoveStory\LoveStory.csproj", "{D8072E46-2022-4FDF-BB0D-9416E2976E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APlusB", "APlusB\APlusB.csproj", "{DBB18842-1FD5-4116-9EED-99402CC0E58E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APlusB", "APlusB\APlusB.csproj", "{DBB18842-1FD5-4116-9EED-99402CC0E58E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftsFixing", "GiftsFixing\GiftsFixing.csproj", "{4D6C43C7-36F1-4736-9B5D-4779AAB673C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiftsFixing", "GiftsFixing\GiftsFixing.csproj", "{4D6C43C7-36F1-4736-9B5D-4779AAB673C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdinaryNumbers", "OrdinaryNumbers\OrdinaryNumbers.csproj", "{4F17A4CF-C3E4-42B6-9C23-629EF4883643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrdinaryNumbers", "OrdinaryNumbers\OrdinaryNumbers.csproj", "{4F17A4CF-C3E4-42B6-9C23-629EF4883643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightAtTheMuseum", "NightAtTheMuseum\NightAtTheMuseum.csproj", "{53C3D8D2-19DF-453A-A9E7-212799CF2CDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{4F17A4CF-C3E4-42B6-9C23-629EF4883643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F17A4CF-C3E4-42B6-9C23-629EF4883643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F17A4CF-C3E4-42B6-9C23-629EF4883643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C3D8D2-19DF-453A-A9E7-212799CF2CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C3D8D2-19DF-453A-A9E7-212799CF2CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C3D8D2-19DF-453A-A9E7-212799CF2CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C3D8D2-19DF-453A-A9E7-212799CF2CDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

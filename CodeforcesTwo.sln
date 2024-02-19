@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APlusB", "APlusB\APlusB.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftsFixing", "GiftsFixing\GiftsFixing.csproj", "{4D6C43C7-36F1-4736-9B5D-4779AAB673C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdinaryNumbers", "OrdinaryNumbers\OrdinaryNumbers.csproj", "{4F17A4CF-C3E4-42B6-9C23-629EF4883643}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4D6C43C7-36F1-4736-9B5D-4779AAB673C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D6C43C7-36F1-4736-9B5D-4779AAB673C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D6C43C7-36F1-4736-9B5D-4779AAB673C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F17A4CF-C3E4-42B6-9C23-629EF4883643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F17A4CF-C3E4-42B6-9C23-629EF4883643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F17A4CF-C3E4-42B6-9C23-629EF4883643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F17A4CF-C3E4-42B6-9C23-629EF4883643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

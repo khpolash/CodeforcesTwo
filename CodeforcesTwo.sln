@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colourblindness", "Colourbl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodKid", "GoodKid\GoodKid.csproj", "{34E23B4F-0F7F-4CFD-BE86-12EFACBBF109}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddSet", "OddSet\OddSet.csproj", "{DCB85712-6727-48EB-A974-124F25AFC282}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{34E23B4F-0F7F-4CFD-BE86-12EFACBBF109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34E23B4F-0F7F-4CFD-BE86-12EFACBBF109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34E23B4F-0F7F-4CFD-BE86-12EFACBBF109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB85712-6727-48EB-A974-124F25AFC282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB85712-6727-48EB-A974-124F25AFC282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB85712-6727-48EB-A974-124F25AFC282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB85712-6727-48EB-A974-124F25AFC282}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

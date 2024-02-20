@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodKid", "GoodKid\GoodKid.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddSet", "OddSet\OddSet.csproj", "{DCB85712-6727-48EB-A974-124F25AFC282}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FafaAndHisCompany", "FafaAndHisCompany\FafaAndHisCompany.csproj", "{FDFB87F4-1E56-45BE-90EB-CF6655294617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{DCB85712-6727-48EB-A974-124F25AFC282}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB85712-6727-48EB-A974-124F25AFC282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB85712-6727-48EB-A974-124F25AFC282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFB87F4-1E56-45BE-90EB-CF6655294617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFB87F4-1E56-45BE-90EB-CF6655294617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFB87F4-1E56-45BE-90EB-CF6655294617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFB87F4-1E56-45BE-90EB-CF6655294617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

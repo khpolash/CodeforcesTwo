@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayColoring", "ArrayColor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FollowingDirections", "FollowingDirections\FollowingDirections.csproj", "{2C4486CD-D513-42FE-A0FC-268AFD9DF090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsForFriends", "CardsForFriends\CardsForFriends.csproj", "{DE67B73B-A0DA-432A-A387-4AC873DE7C47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{2C4486CD-D513-42FE-A0FC-268AFD9DF090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C4486CD-D513-42FE-A0FC-268AFD9DF090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C4486CD-D513-42FE-A0FC-268AFD9DF090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE67B73B-A0DA-432A-A387-4AC873DE7C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE67B73B-A0DA-432A-A387-4AC873DE7C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE67B73B-A0DA-432A-A387-4AC873DE7C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE67B73B-A0DA-432A-A387-4AC873DE7C47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

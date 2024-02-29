@@ -35,11 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddSet", "OddSet\OddSet.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FafaAndHisCompany", "FafaAndHisCompany\FafaAndHisCompany.csproj", "{FDFB87F4-1E56-45BE-90EB-CF6655294617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayColoring", "ArrayColoring\ArrayColoring.csproj", "{CB6BB7C4-0C95-4B15-B65E-D9030FE9625F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayColoring", "ArrayColoring\ArrayColoring.csproj", "{CB6BB7C4-0C95-4B15-B65E-D9030FE9625F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FollowingDirections", "FollowingDirections\FollowingDirections.csproj", "{2C4486CD-D513-42FE-A0FC-268AFD9DF090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FollowingDirections", "FollowingDirections\FollowingDirections.csproj", "{2C4486CD-D513-42FE-A0FC-268AFD9DF090}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsForFriends", "CardsForFriends\CardsForFriends.csproj", "{DE67B73B-A0DA-432A-A387-4AC873DE7C47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardsForFriends", "CardsForFriends\CardsForFriends.csproj", "{DE67B73B-A0DA-432A-A387-4AC873DE7C47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddOddOrSubtractEven", "OddOrSubtractEven\AddOddOrSubtractEven.csproj", "{2317D752-DE00-4735-A891-0AFC264A9635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtillasFavoriteProblem", "AtillasFavoriteProblem\AtillasFavoriteProblem.csproj", "{91D57894-7906-4779-A06B-CFCCA96B190B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +127,14 @@ Global
 		{DE67B73B-A0DA-432A-A387-4AC873DE7C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE67B73B-A0DA-432A-A387-4AC873DE7C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE67B73B-A0DA-432A-A387-4AC873DE7C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2317D752-DE00-4735-A891-0AFC264A9635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2317D752-DE00-4735-A891-0AFC264A9635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2317D752-DE00-4735-A891-0AFC264A9635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2317D752-DE00-4735-A891-0AFC264A9635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D57894-7906-4779-A06B-CFCCA96B190B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D57894-7906-4779-A06B-CFCCA96B190B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D57894-7906-4779-A06B-CFCCA96B190B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D57894-7906-4779-A06B-CFCCA96B190B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectPermutation", "Perfe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteSequence", "FavoriteSequence\FavoriteSequence.csproj", "{832B849E-9420-40FC-B66C-16F0B76A5232}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordOnThePaper", "WordOnThePaper\WordOnThePaper.csproj", "{A870F9DE-6D53-4246-9E77-D8C82E05B340}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{832B849E-9420-40FC-B66C-16F0B76A5232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{832B849E-9420-40FC-B66C-16F0B76A5232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{832B849E-9420-40FC-B66C-16F0B76A5232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A870F9DE-6D53-4246-9E77-D8C82E05B340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A870F9DE-6D53-4246-9E77-D8C82E05B340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A870F9DE-6D53-4246-9E77-D8C82E05B340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A870F9DE-6D53-4246-9E77-D8C82E05B340}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

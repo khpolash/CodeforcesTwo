@@ -43,9 +43,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardsForFriends", "CardsFor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddOddOrSubtractEven", "OddOrSubtractEven\AddOddOrSubtractEven.csproj", "{2317D752-DE00-4735-A891-0AFC264A9635}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtillasFavoriteProblem", "AtillasFavoriteProblem\AtillasFavoriteProblem.csproj", "{91D57894-7906-4779-A06B-CFCCA96B190B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtillasFavoriteProblem", "AtillasFavoriteProblem\AtillasFavoriteProblem.csproj", "{91D57894-7906-4779-A06B-CFCCA96B190B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumIncrease", "MaximumIncrease\MaximumIncrease.csproj", "{AA9F0935-80D7-462B-8C95-AE4FE688277E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumIncrease", "MaximumIncrease\MaximumIncrease.csproj", "{AA9F0935-80D7-462B-8C95-AE4FE688277E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectPermutation", "PerfectPermutation\PerfectPermutation.csproj", "{508FF3E8-F70B-498A-A4D2-49D666BAC0CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{AA9F0935-80D7-462B-8C95-AE4FE688277E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA9F0935-80D7-462B-8C95-AE4FE688277E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA9F0935-80D7-462B-8C95-AE4FE688277E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508FF3E8-F70B-498A-A4D2-49D666BAC0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508FF3E8-F70B-498A-A4D2-49D666BAC0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508FF3E8-F70B-498A-A4D2-49D666BAC0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508FF3E8-F70B-498A-A4D2-49D666BAC0CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

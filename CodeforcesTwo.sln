@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostUnstableArray", "MostUn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triple", "Triple\Triple.csproj", "{7B2474CF-2969-45D8-8598-2212D94822B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrependAndAppend", "PrependAndAppend\PrependAndAppend.csproj", "{9A651BB7-8C54-422F-AFCA-B929B8EA58E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{7B2474CF-2969-45D8-8598-2212D94822B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B2474CF-2969-45D8-8598-2212D94822B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B2474CF-2969-45D8-8598-2212D94822B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A651BB7-8C54-422F-AFCA-B929B8EA58E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A651BB7-8C54-422F-AFCA-B929B8EA58E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A651BB7-8C54-422F-AFCA-B929B8EA58E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A651BB7-8C54-422F-AFCA-B929B8EA58E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -47,15 +47,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtillasFavoriteProblem", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumIncrease", "MaximumIncrease\MaximumIncrease.csproj", "{AA9F0935-80D7-462B-8C95-AE4FE688277E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectPermutation", "PerfectPermutation\PerfectPermutation.csproj", "{508FF3E8-F70B-498A-A4D2-49D666BAC0CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerfectPermutation", "PerfectPermutation\PerfectPermutation.csproj", "{508FF3E8-F70B-498A-A4D2-49D666BAC0CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteSequence", "FavoriteSequence\FavoriteSequence.csproj", "{832B849E-9420-40FC-B66C-16F0B76A5232}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FavoriteSequence", "FavoriteSequence\FavoriteSequence.csproj", "{832B849E-9420-40FC-B66C-16F0B76A5232}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordOnThePaper", "WordOnThePaper\WordOnThePaper.csproj", "{A870F9DE-6D53-4246-9E77-D8C82E05B340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordOnThePaper", "WordOnThePaper\WordOnThePaper.csproj", "{A870F9DE-6D53-4246-9E77-D8C82E05B340}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenWordsOfWisdom", "TenWordsOfWisdom\TenWordsOfWisdom.csproj", "{06964E35-E95D-4D5F-B2C0-D4C8C79821B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TenWordsOfWisdom", "TenWordsOfWisdom\TenWordsOfWisdom.csproj", "{06964E35-E95D-4D5F-B2C0-D4C8C79821B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayWithOddSum", "ArrayWithOddSum\ArrayWithOddSum.csproj", "{59222C88-1D8E-40C2-B9C3-0DF9B4F319ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayWithOddSum", "ArrayWithOddSum\ArrayWithOddSum.csproj", "{59222C88-1D8E-40C2-B9C3-0DF9B4F319ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabTheCandies", "GrabTheCandies\GrabTheCandies.csproj", "{82BC4357-BA34-4856-8CA7-58A4F6458280}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{59222C88-1D8E-40C2-B9C3-0DF9B4F319ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59222C88-1D8E-40C2-B9C3-0DF9B4F319ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59222C88-1D8E-40C2-B9C3-0DF9B4F319ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BC4357-BA34-4856-8CA7-58A4F6458280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BC4357-BA34-4856-8CA7-58A4F6458280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BC4357-BA34-4856-8CA7-58A4F6458280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BC4357-BA34-4856-8CA7-58A4F6458280}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

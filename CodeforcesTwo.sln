@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TenWordsOfWisdom", "TenWord
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayWithOddSum", "ArrayWithOddSum\ArrayWithOddSum.csproj", "{59222C88-1D8E-40C2-B9C3-0DF9B4F319ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabTheCandies", "GrabTheCandies\GrabTheCandies.csproj", "{82BC4357-BA34-4856-8CA7-58A4F6458280}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrabTheCandies", "GrabTheCandies\GrabTheCandies.csproj", "{82BC4357-BA34-4856-8CA7-58A4F6458280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialPermutation", "SpecialPermutation\SpecialPermutation.csproj", "{1712A8D4-5536-44EF-819B-FF4B51AB59BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{82BC4357-BA34-4856-8CA7-58A4F6458280}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82BC4357-BA34-4856-8CA7-58A4F6458280}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82BC4357-BA34-4856-8CA7-58A4F6458280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1712A8D4-5536-44EF-819B-FF4B51AB59BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1712A8D4-5536-44EF-819B-FF4B51AB59BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1712A8D4-5536-44EF-819B-FF4B51AB59BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1712A8D4-5536-44EF-819B-FF4B51AB59BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
